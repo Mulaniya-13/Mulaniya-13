@@ -78,7 +78,7 @@ Simple responsive UI design using HTML and CSS.
 
 ## 📫 Contact Me
 - GitHub: [Mulaniya-13](https://github.com/Mulaniya-13)  
-- LinkedIn: NA 
+- LinkedIn: https://www.linkedin.com/in/aashish-mulaniya13
 - Email: mulaniyaaashish@gmail.com
 
 ---
