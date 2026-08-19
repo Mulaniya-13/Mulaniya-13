@@ -25,11 +25,11 @@ I focus on improving my skills in **frontend, backend, and API integration** by 
 - React.js  
 - Bootstrap  
 
-### 🔧 Backend (Learning)
+### 🔧 Backend 
 - Node.js  
 - Express.js  
 
-### 🗄️ Database (Basic)
+### 🗄️ Database 
 - MongoDB  
 
 ### ⚙️ Tools
