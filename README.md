@@ -30,7 +30,8 @@ I focus on improving my skills in **frontend, backend, and API integration** by 
 - Express.js  
 
 ### 🗄️ Database 
-- MongoDB  
+- MongoDB
+- SQL
 
 ### ⚙️ Tools
 - Git & GitHub  
